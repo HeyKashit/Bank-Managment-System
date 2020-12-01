@@ -1,3 +1,5 @@
+// BANK MANAGEMENT SYSTEM IN C
+// KASHIT DUHAN
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
